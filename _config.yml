@@ -1,0 +1,14 @@
+layout_spectrum: 0.5303269180003554
+typography_spectrum: 0.8733187322504818
+color:
+  brandStrength: 0.8580190378706902
+  lightness: 0.2861922145821154
+  saturation: 0.03601782047189772
+  rhythmicContrast: 0.3524288006592542
+  brandColors:
+    - '#3D403F'
+    - '#BF5E66'
+    - '#A6866A'
+    - '#F2EFE9'
+    - '#6B7366'
+name: Glasma.net
