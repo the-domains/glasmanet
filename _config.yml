@@ -1,16 +1,16 @@
-typography_spectrum: 0.8733187322504818
+layout_spectrum: 0.8324703359976411
+typography_spectrum: 0.7130718142725527
 color:
-  brandStrength: 0.8580190378706902
-  lightness: 0.2861922145821154
-  saturation: 0.03601782047189772
-  rhythmicContrast: 0.3524288006592542
+  brandStrength: 0.6734513596165925
+  lightness: 0.31811082316562533
+  saturation: 0.5278426229488105
+  rhythmicContrast: 0.8990474389865994
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-layout_spectrum: 0.5303269180003554
+    - '#3D403F'
+    - '#BF5E66'
+    - '#A6866A'
+    - '#F2EFE9'
+    - '#6B7366'
 name: Glasma.net
 title: Causality
 description: Explaining the world
