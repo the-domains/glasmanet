@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-28T18:49:15.349Z'
+datePublished: '2016-08-28T18:50:14.829Z'
+sourcePath: _posts/2016-08-28-meet-team-bocuse-dor-usa.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=ZGca1ewQ9s0'
 author:
@@ -7,18 +8,19 @@ author:
     url: 'https://www.youtube.com/user/BonAppetitDotCom'
     avatar: {}
 via: {}
-dateModified: '2016-08-28T18:49:09.763Z'
-title: Meet Team Bocuse d'Or USA
+dateModified: '2016-08-28T18:50:14.367Z'
+title: Where is the fish?
 publisher: {}
 description: >-
   Every second year the best chefs in the world  and their commis (assistants)
   gather in Lyon, France to compete the most prestigious competition of them
   all; the Bocuse d’Or.
 starred: false
-sourcePath: _posts/2016-08-28-meet-team-bocuse-dor-usa.md
 _type: MediaObject
 
 ---
+# Where is the fish?
+
 Every second year the best chefs in the world and their commis (assistants) gather in Lyon, France to compete the most prestigious competition of them all; the [Bocuse d'Or][0].
 
 In 5 hours and 35 minutes, the team has to prepare a meat and a fish dish in front of judges and a very lively audience. The two dish themes are announced in advance, so the chefs and their commis prepare by setting up a kitchen in the same manner, experiment, focus on both mental and physical fitness, have a large support team and coaches, and dedicate a lot of time.
