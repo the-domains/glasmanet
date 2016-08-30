@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Glasma.net]]></title>
-        <description><![CDATA[Glasma.net]]></description>
-        <link>https://thegrid.ai/glasmanet/</link>
+        <title><![CDATA[Causality]]></title>
+        <description><![CDATA[Causality]]></description>
+        <link>http://glasma.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 12:03:26 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/glasmanet/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Aug 2016 18:49:18 GMT</lastBuildDate>
+        <atom:link href="http://glasma.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Meet Team Bocuse d'Or USA]]></title>
+            <description><![CDATA[<article><h1>Meet Team Bocuse d'Or USA</h1><p>Every second year the best chefs in the world  and their commis (assistants) gather in Lyon, France to compete the most prestigious competition of them all; the Bocuse d’Or.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f5ef6e24d8e11a1f5da758b58fa16d50/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FZGca1ewQ9s0%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=ZGca1ewQ9s0</link>
+            <guid isPermaLink="false">bfe3ccd6-192e-46f3-9b66-0b690cb66c5e</guid>
+            <pubDate>Sun, 28 Aug 2016 18:49:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cuba on the Edge of Change]]></title>
             <description><![CDATA[<article><h1>Cuba on the Edge of Change</h1><p>at times can feel like a nation abandoned. The aching disrepair of its cities, the untamed foliage of its countryside, the orphaned coastlines - a half-century of isolation has wrapped the country in decay. Yet few places in the world brim with as much life as Cuba, a contrast drawn sharper amid its faded grandeur.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fadd80fef63f3704329bd8f3effa0b99/croprotate.jpg?cropheight=548&cropwidth=1050&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F196de034f71ac2612a2898c9ace08482d0e1afa6.jpg&x=0&y=0"></article>]]></description>
