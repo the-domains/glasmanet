@@ -1,28 +1,14 @@
-title: Causality
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
+layout_spectrum: 0.5303269180003554
+typography_spectrum: 0.8733187322504818
 color:
-  saturation: 0.5278426229488105
-  brandStrength: 0.6734513596165925
-  rhythmicContrast: 0.8990474389865994
+  brandStrength: 0.8580190378706902
+  lightness: 0.2861922145821154
+  saturation: 0.03601782047189772
+  rhythmicContrast: 0.3524288006592542
   brandColors:
-    - '#3D403F'
-    - '#BF5E66'
-    - '#A6866A'
-    - '#F2EFE9'
-    - '#6B7366'
-  lightness: 0.3181108231656253
-typography_spectrum: 0.2042553
-description: Explaining the world
-layout_spectrum: 0.4361702
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: Glasma.net
